@@ -1,1 +1,1 @@
-# C-ritas-Arequipa
+# Cáritas-Arequipa
