@@ -1,0 +1,19 @@
+oscuro:
+
+  color: #C3002C;
+
+
+
+
+
+Claro
+#FF3863
+
+
+INFO:
+#B20027
+
+
+Diapo:
+#ECD2DF
+
